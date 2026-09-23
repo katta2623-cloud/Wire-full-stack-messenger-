@@ -1,0 +1,16 @@
+{
+  "876543219": {
+    "phone": "876543219",
+    "passwordHash": "5560f05acd679c19a41bfe603a8d0ba8:6de451d26bfb700c8d0fc8ece3d18a2752373723d41902198a9b8ce3350e7d3a5eb17db94fe7ffcace66172afd1493dad9ec053514386893e1c841511cf48d09",
+    "name": "kumar",
+    "status": "",
+    "createdAt": "2026-09-23T08:18:54.946Z"
+  },
+  "987654321": {
+    "phone": "987654321",
+    "passwordHash": "ce6d9f1b868eac27e7da0a6e545aec33:6a9a0207ffcd49c280e05354b0612b35b823dc3f08c1135aeaa8be6e5846403fc68781a61698fe16a9124a577a05016a67037f22074faa0ce371b113c75e71ab",
+    "name": "prasad",
+    "status": "",
+    "createdAt": "2026-09-23T08:18:15.003Z"
+  }
+}
